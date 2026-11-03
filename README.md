@@ -1,4 +1,4 @@
-# Hi, I'm Ayda Kartal 👋
+# Hi, I'm Bekir Can Gülden 👋
 
 **Blockchain Developer · Arc Ecosystem Builder · Stablecoin & Payments Infrastructure**
 
